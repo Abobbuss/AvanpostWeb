@@ -1,0 +1,6 @@
+@AvanpostWeb_HostAddress = http://localhost:5276
+
+GET {{AvanpostWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

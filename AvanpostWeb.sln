@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvanpostWeb", "AvanpostWeb\AvanpostWeb.csproj", "{11E09694-24EA-4F99-B0FB-D7D861D1480F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E09694-24EA-4F99-B0FB-D7D861D1480F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E09694-24EA-4F99-B0FB-D7D861D1480F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E09694-24EA-4F99-B0FB-D7D861D1480F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E09694-24EA-4F99-B0FB-D7D861D1480F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0E7FB5A-9718-4AC6-AEC6-5F249665800A}
+	EndGlobalSection
+EndGlobal
